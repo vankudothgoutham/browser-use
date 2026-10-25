@@ -1,7 +1,7 @@
 [centralign_ai_employee_operator_readme.md](https://github.com/user-attachments/files/33926606/centralign_ai_employee_operator_readme.md)
 # CentrAlign AI Employee Operator 🤖🌐
 
-> **Autonomous AI Worker for Enterprise Workflows**  
+> **Autonomous AI Worker for Enterprise Workflows** 
 > Powered by open-source browser automation, stateful execution loops, and post-task verification.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
